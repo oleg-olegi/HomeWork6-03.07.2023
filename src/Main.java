@@ -8,6 +8,7 @@ public class Main {
         task6();
         task7();
         task8();
+        task9();
     }
 
     public static void task1() {
@@ -65,5 +66,7 @@ public class Main {
         }
     }public static void task8(){
         System.out.println("\nЗадача 8");
+    }public static void task9(){
+
     }
 }
